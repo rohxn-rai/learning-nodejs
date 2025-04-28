@@ -1,0 +1,20 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "Learning NodeJS",
+  "homepage": "https://github.com/rohxn-rai/learning-nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/rohxn-rai/learning-nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohxn-rai/learning-nodejs.git"
+  },
+  "license": "ISC",
+  "author": "Rohan Rai",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
